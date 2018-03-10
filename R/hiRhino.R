@@ -13,7 +13,7 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-hiRhino <- function(n=0) {
+hiRhino <- function(n=1) {
   if(n==0) {return("Hey, no Rhinos!")}
   if(n<0) {return("Oops, Rhinos cant be negative!")}
   paste("Hello, ", paste(rep("Rhino",n), collapse = " "), "!", sep="")

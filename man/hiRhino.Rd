@@ -16,6 +16,7 @@ A number \code{n} greetings to the animals.
 Say hi to the Rhinos.
 }
 \examples{
+library(rhinotools)
 hiRhino(1)
 hiRhino()
 }

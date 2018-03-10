@@ -18,6 +18,7 @@
 #' @param n A number.
 #' @return A number \code{n} greetings to the animals.
 #' @examples
+#' library(rhinotools)
 #' hiRhino(1)
 #' hiRhino()
 hiRhino <- function(n=1) {

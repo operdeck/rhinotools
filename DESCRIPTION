@@ -1,11 +1,11 @@
 Package: rhinotools
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Experiments in CI for R
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
+Author: Otto Perdeck
+Maintainer: Otto Perdeck <operdeck@gmail.com>
+Description: Figuring out how to use CI, doc, test coverage etc.
+    With R.
 License: GPL-2
 Encoding: UTF-8
 LazyData: true

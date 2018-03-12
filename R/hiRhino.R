@@ -17,7 +17,7 @@
 #'
 #' @param n Number of times to say hello
 #'
-#' @return A nice greeting
+#' @return A welcome to Rhinos
 #' @export
 #'
 #' @examples

@@ -10,7 +10,7 @@ hiRhino(n = 1)
 \item{n}{Number of times to say hello}
 }
 \value{
-A nice greeting
+A welcome to Rhinos
 }
 \description{
 Say hi to the animals

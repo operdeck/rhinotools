@@ -2,16 +2,20 @@
 % Please edit documentation in R/hiRhino.R
 \name{hiRhino}
 \alias{hiRhino}
-\title{Say hi to the Rhinos.}
+\title{Say hi to the animals}
 \usage{
 hiRhino(n = 1)
 }
 \arguments{
-\item{n}{A number.}
+\item{n}{Number of times to say hello}
 }
 \value{
-A number \code{n} greetings to the animals.
+A nice greeting
 }
 \description{
-Say hi to the Rhinos.
+Say hi to the animals
+}
+\examples{
+hiRhino()
+hiRhino(2)
 }

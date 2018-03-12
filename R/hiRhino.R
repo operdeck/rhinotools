@@ -13,10 +13,16 @@
 #   Check Package:             'Cmd + Shift + E'
 #   Test Package:              'Cmd + Shift + T'
 
-#' Say hi to the Rhinos.
+#' Say hi to the animals
 #'
-#' @param n A number.
-#' @return A number \code{n} greetings to the animals.
+#' @param n Number of times to say hello
+#'
+#' @return A nice greeting
+#' @export
+#'
+#' @examples
+#' hiRhino()
+#' hiRhino(2)
 hiRhino <- function(n=1) {
   if(n==0) {return("Hey, no Rhinos!")}
   if(n<0) {return("Oops, Rhinos cant be negative!")}

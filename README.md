@@ -4,6 +4,8 @@
 # Rhinotools
 Experiments in CI for R
 
+Experiments with GIT branching
+
 ## Coverage
 Continuous integration with [Travis CI](https://travis-ci.org), code coverage using the `covr` package via [codecov](https://codecov.io/).
 

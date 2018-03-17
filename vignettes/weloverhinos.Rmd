@@ -1,10 +1,10 @@
 ---
-title: "Vignette Title"
+title: "rhino-rescue"
 author: "Vignette Author"
 date: "`r Sys.Date()`"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteIndexEntry{rhino-rescue}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -18,8 +18,12 @@ knitr::opts_chunk$set(
 
 ## Rhinos
 
-Rhinos are nice animals. Use `hiRhino` to say hi to them.
+Rhinos are nice animavlos. Use `hiRhino` to say hi to them!
 
 ```{r}
 rhinotools::hiRhino(2)
 ```
+```{r}
+plot(runif(n = 10))
+```
+

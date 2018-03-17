@@ -4,7 +4,17 @@
 # Rhinotools
 Experiments in CI for R
 
-Experiments with GIT branching
+## GIT basics
+
+always useful: [GitHub Guides](https://guides.github.com)
+
+locally create and switch to a new branch `git checkout -b branchB`, just switch to an existing branch `git checkout feature-a`
+
+push it to the remote with `git push origin branchB:branchB` or maybe `git push -u origin HEAD` is easier, it also sets set upstream
+
+and merge in GitHub through a PR
+
+Pls contribute back with PRs or [Issues](https://github.com/operdeck/rhinotools/issues)
 
 ## Coverage
 Continuous integration with [Travis CI](https://travis-ci.org), code coverage using the `covr` package via [codecov](https://codecov.io/).

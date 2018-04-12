@@ -1,8 +1,10 @@
 [![Build Status](https://travis-ci.org/perdoperdo/rhinotools.svg?branch=master)](https://travis-ci.org/perdoperdo/rhinotools)
 [![codecov](https://codecov.io/gh/perdoperdo/rhinotools/branch/master/graph/badge.svg)](https://codecov.io/gh/perdoperdo/rhinotools)
+![Rhinotools](images/rhino.png)
 
 # Rhinotools
 Experiments in CI for R
+
 
 ## GIT basics
 
